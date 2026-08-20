@@ -50,10 +50,10 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 
 | Coworking Space | Direct Booking Link | 4 Flex Desks / Mo (Incl. GST) | 4 Dedicated Desks / Mo (Incl. GST) | Day Pass Link & Rate | Proximity to Major Societies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Awfis Hinjewadi Phase 1** | [Awfis Embassy TechZone](https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi) | **₹37,760** (₹32k + GST) | **₹44,840** (₹38k + GST) | [Awfis Pass](https://www.awfis.com) (₹450/day) | <1 km from Blue Ridge Phase 1; 5 km from Wakad |
-| **Smartworks M-Agile** | [Smartworks Malpani Agile](https://www.smartworksoffice.com/coworking-space/pune) | **₹47,200** (₹40k + GST) | **₹51,920** (₹44k + GST) | [Smartworks App](https://www.smartworksoffice.com) (₹500/day) | 2.5 km from Wakad societies; 4 km from Blue Ridge |
+| **Awfis Hinjewadi Phase 1** | [Awfis Embassy TechZone](https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi) | **₹37,760** (₹32k + GST) | **₹44,840** (₹38k + GST) | [Awfis Pass](https://www.awfis.com) (₹450/day) | ![Awfis](../assets/images/awfis-the-kode.png) | <1 km from Blue Ridge Phase 1; 5 km from Wakad |
+| **Smartworks M-Agile** | [Smartworks Malpani Agile](https://www.smartworksoffice.com/coworking-space/pune) | **₹47,200** (₹40k + GST) | **₹51,920** (₹44k + GST) | [Smartworks App](https://www.smartworksoffice.com) (₹500/day) | ![Smartworks](../assets/images/smartworks-malpani-agile.png) | 2.5 km from Wakad societies; 4 km from Blue Ridge |
 | **Trios Coworking (Wakad)** | [myHQ Trios White Square](https://myhq.in/coworking-spaces/pune) | **₹30,680** (₹26k + GST) | **₹35,400** (₹30k + GST) | [Trios on myHQ](https://myhq.in) (₹400/day) | 0.5–1.5 km from central Wakad societies |
-| **Bootstart Wakad** | [Bootstart Wakad Official](https://bootstart.in/coworking-space-in-wakad-pune/) | **₹28,320** (₹24k + GST) | **₹30,680** (₹26k + GST) | [Bootstart Pass](https://bootstart.in) (₹350/day) | 1.0–2.5 km from Wakad societies |
+| **Bootstart Wakad** | [Bootstart Wakad Official](https://bootstart.in/coworking-space-in-wakad-pune/) | **₹28,320** (₹24k + GST) | **₹30,680** (₹26k + GST) | [Bootstart Pass](https://bootstart.in) (₹350/day) | ![Bootstart](../assets/images/bootstart-wakad.png) | 1.0–2.5 km from Wakad societies |
 
 ---
 
@@ -61,9 +61,9 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 
 | Coworking Space | Direct Booking Link | 4 Flex Desks / Mo (Incl. GST) | 4 Dedicated Desks / Mo (Incl. GST) | Day Pass Link & Rate | Proximity to Major Societies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **WeWork World Trade Center** | [WeWork WTC Kharadi](https://www.wework.co.in/) | **₹44,840** (₹38k + GST) | **₹84,960** (₹72k + GST) | [WeWork Pass](https://www.wework.co.in/) (₹650/day) | 0.8–2.0 km from Riverdale, Forest County, Nyati |
-| **Awfis EON Free Zone** | [Awfis EON Kharadi](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi) | **₹28,320** (₹24k + GST) | **₹44,840** (₹38k + GST) | [Awfis EON](https://www.awfis.com) (₹400/day) | 1.0–2.5 km from Gera World of Joy, Zen Estate |
-| **Bootstart Kharadi** | [Bootstart Kharadi Official](https://bootstart.in/coworking-space-in-kharadi-pune/) | **₹23,600** (₹20k + GST) | **₹28,320** (₹24k + GST) | [Bootstart Pass](https://bootstart.in) (₹350/day) | 1.5–3.0 km from Kharadi societies |
+| **WeWork World Trade Center** | [WeWork WTC Kharadi](https://www.wework.co.in/) | **₹44,840** (₹38k + GST) | **₹84,960** (₹72k + GST) | [WeWork Pass](https://www.wework.co.in/) (₹650/day) | ![WeWork](../assets/images/wework-eleven-west.png) | 0.8–2.0 km from Riverdale, Forest County, Nyati |
+| **Awfis EON Free Zone** | [Awfis EON Kharadi](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi) | **₹28,320** (₹24k + GST) | **₹44,840** (₹38k + GST) | [Awfis EON](https://www.awfis.com) (₹400/day) | ![Gera World of Joy](../assets/images/gera-world-of-joy.png) | 1.0–2.5 km from Gera World of Joy, Zen Estate |
+| **Bootstart Kharadi** | [Bootstart Kharadi Official](https://bootstart.in/coworking-space-in-kharadi-pune/) | **₹23,600** (₹20k + GST) | **₹28,320** (₹24k + GST) | [Bootstart Pass](https://bootstart.in) (₹350/day) | ![Bootstart](../assets/images/bootstart-wakad.png) | 1.5–3.0 km from Kharadi societies |
 
 ---
 
