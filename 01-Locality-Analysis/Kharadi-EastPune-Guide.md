@@ -17,19 +17,19 @@ Kharadi offers modern gated communities. While ultra-luxe projects exceed ₹55k
 
 1. **VJ Yashwin Enchante / Supernova (Upper Kharadi)**:
    - *Rent Range*: **₹32,000 – ₹38,000 (Semi)**, **₹40,000 – ₹44,000 (Furnished)**.
-   - *Direct Links*: [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [99acres Yashwin Kharadi](https://www.99acres.com/rent-property-in-kharadi-pune-ffid)
+   - *Direct Links*: [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [99acres Yashwin Kharadi](https://www.99acres.com/flats-for-rent-in-kharadi-pune-ffid)
    - *Highlights*: Contemporary designs, clubhouse, swimming pool, sports turf, 100% DG backup.
 2. **Godrej Parkridge / Infinity / Sky Greens (Manjari-Kharadi)**:
    - *Rent Range*: **₹30,000 – ₹36,000 (Semi)**, **₹38,000 – ₹44,000 (Furnished)**.
-   - *Direct Links*: [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [Housing Godrej Parkridge](https://housing.com/rent/flats-for-rent-in-kharadi-pune-P6w2u7o1v3b9x3)
+   - *Direct Links*: [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [Housing Godrej Parkridge](https://housing.com/in/rent/pune)
    - *Highlights*: Green open riverfront spaces, modern towers, Olympic-size pool, extensive club facilities.
 3. **Kohinoor Zen Estate / Zen Elite (Kharadi Riverfront)**:
    - *Rent Range*: **₹36,000 – ₹42,000**.
-   - *Direct Links*: [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [Magicbricks Zen Estate](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Kharadi-Pune)
+   - *Direct Links*: [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [Magicbricks Zen Estate](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Kharadi&cityName=Pune)
    - *Highlights*: Walking distance to Zensar & EON IT Park, 3-tier security, modern floor plans.
 4. **Bramha Suncity (Wadgaon Sheri / Kalyani Nagar Border)**:
    - *Rent Range*: **₹38,000 – ₹45,000**.
-   - *Direct Links*: [NoBroker Wadgaon Sheri](https://www.nobroker.in/flats-for-rent-in-wadgaon-sheri_pune) | [99acres Bramha Suncity](https://www.99acres.com/3-bhk-flats-for-rent-in-bramha-suncity-wadgaon-sheri-pune-ffid)
+   - *Direct Links*: [NoBroker Wadgaon Sheri](https://www.nobroker.in/flats-for-rent-in-wadgaon-sheri_pune) | [99acres Bramha Suncity](https://www.99acres.com/flats-for-rent-in-wadgaon-sheri-pune-ffid)
    - *Highlights*: 25-acre township, central artificial lake, high carpet areas (1400+ sq.ft).
 
 ---
@@ -38,7 +38,7 @@ Kharadi offers modern gated communities. While ultra-luxe projects exceed ₹55k
 
 | Space | Direct Booking Link | 4 Flex Desks / Mo (Incl. GST) | Day Pass Link | Distance from Residences |
 | :--- | :--- | :--- | :--- | :--- |
-| **WeWork World Trade Center (WTC)** | [WeWork WTC Kharadi](https://wework.co.in/workspace/pune/world-trade-center-kharadi) | **₹44,840** | [WeWork Pass](https://wework.co.in/pass) (₹650/day) | 0.8 – 2.0 km (4 mins) |
+| **WeWork World Trade Center (WTC)** | [WeWork WTC Kharadi](https://www.wework.co.in/) | **₹44,840** | [WeWork Pass](https://www.wework.co.in/) (₹650/day) | 0.8 – 2.0 km (4 mins) |
 | **Awfis EON Free Zone** | [Awfis EON Kharadi](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi) | **₹28,320** | [Awfis Pass](https://www.awfis.com) (₹400/day) | 1.0 – 2.5 km (5 mins) |
 | **Bootstart Kharadi** | [Bootstart Kharadi](https://bootstart.in/coworking-space-in-kharadi-pune/) | **₹23,600** | [Bootstart Pass](https://bootstart.in) (₹350/day) | 1.5 – 3.0 km (6 mins) |
 

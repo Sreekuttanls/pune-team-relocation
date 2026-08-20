@@ -7,8 +7,8 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 ## 1. West Pune: Baner & Balewadi Hub
 
 ### A. WeWork – Eleven West (Veerbhadra Nagar, Baner)
-- **Direct Booking Link**: [https://wework.co.in/workspace/pune/eleven-west-baner](https://wework.co.in/workspace/pune/eleven-west-baner)
-- **Day Pass Booking**: [https://wework.co.in/pass](https://wework.co.in/pass) (₹850 – ₹950 / person / day)
+- **Direct Booking Link**: [https://www.wework.co.in/](https://www.wework.co.in/)
+- **Day Pass Booking**: [https://www.wework.co.in/](https://www.wework.co.in/) (₹850 – ₹950 / person / day)
 - **Vibe & Atmosphere**: Ultra-premium global standard, high-ceiling architectural lounges, buzzing startup community, wellness rooms.
 - **Internet SLA**: Dual-homed leased lines (1 Gbps symmetric) with automatic BGP failover and 99.9% uptime SLA.
 - **Pricing for 4 People**:
@@ -28,8 +28,8 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 - **Proximity**: 0.5–1.5 km from Mont Vert Finesse / Rohan Leher (2–4 mins walk/drive).
 
 ### C. IndiQube ATP (Amar Tech Park, Balewadi)
-- **Direct Booking Link**: [https://myhq.in/coworking-space/indiqube-atp-balewadi-pune](https://myhq.in/coworking-space/indiqube-atp-balewadi-pune) | [IndiQube Official](https://indiqube.com/spaces/pune/)
-- **Day Pass Booking**: [https://myhq.in/coworking-space/indiqube-atp-balewadi-pune](https://myhq.in/coworking-space/indiqube-atp-balewadi-pune) (₹500 / person / day)
+- **Direct Booking Link**: [https://myhq.in/coworking-spaces/pune](https://myhq.in/coworking-spaces/pune) | [IndiQube Official](https://indiqube.com/spaces/pune/)
+- **Day Pass Booking**: [https://myhq.in/coworking-spaces/pune](https://myhq.in/coworking-spaces/pune) (₹500 / person / day)
 - **Vibe & Atmosphere**: Enterprise-grade commercial tech park ambiance, dedicated cafeteria, gaming zones.
 - **Pricing for 4 People**:
   - *Flex Desks (4 Seats)*: **₹28,000 / mo** + 18% GST (₹5,040) = **₹33,040 / month total** (₹7,000/seat).
@@ -37,7 +37,7 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 - **Proximity**: 0.8–1.5 km from Balewadi High Street / Aditya Comfort Zone (3–5 mins).
 
 ### D. Workflo by OYO (Icon Tower, Baner)
-- **Direct Booking Link**: [https://myhq.in/coworking-space/workflo-icon-tower-baner-pune](https://myhq.in/coworking-space/workflo-icon-tower-baner-pune) | [CoFynd Workflo](https://cofynd.com/coworking/pune/workflo-icon-tower-baner)
+- **Direct Booking Link**: [https://myhq.in/coworking-spaces/pune](https://myhq.in/coworking-spaces/pune) | [CoFynd Workflo](https://cofynd.com/coworking/pune/workflo-icon-tower-baner)
 - **Day Pass Booking**: [https://myhq.in](https://myhq.in) (₹500 / person / day)
 - **Pricing for 4 People**:
   - *Flex Desks (4 Seats)*: **₹24,000 / mo** + 18% GST (₹4,320) = **₹28,320 / month total** (₹6,000/seat).
@@ -51,8 +51,8 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 | Coworking Space | Direct Booking Link | 4 Flex Desks / Mo (Incl. GST) | 4 Dedicated Desks / Mo (Incl. GST) | Day Pass Link & Rate | Proximity to Major Societies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Awfis Hinjewadi Phase 1** | [Awfis Embassy TechZone](https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi) | **₹37,760** (₹32k + GST) | **₹44,840** (₹38k + GST) | [Awfis Pass](https://www.awfis.com) (₹450/day) | <1 km from Blue Ridge Phase 1; 5 km from Wakad |
-| **Smartworks M-Agile** | [Smartworks Malpani Agile](https://www.smartworksoffice.com/coworking-space/pune/malpani-agile) | **₹47,200** (₹40k + GST) | **₹51,920** (₹44k + GST) | [Smartworks App](https://www.smartworksoffice.com) (₹500/day) | 2.5 km from Wakad societies; 4 km from Blue Ridge |
-| **Trios Coworking (Wakad)** | [myHQ Trios White Square](https://myhq.in/coworking-space/trios-coworking-space-white-square-wakad-pune) | **₹30,680** (₹26k + GST) | **₹35,400** (₹30k + GST) | [Trios on myHQ](https://myhq.in) (₹400/day) | 0.5–1.5 km from central Wakad societies |
+| **Smartworks M-Agile** | [Smartworks Malpani Agile](https://www.smartworksoffice.com/coworking-space/pune) | **₹47,200** (₹40k + GST) | **₹51,920** (₹44k + GST) | [Smartworks App](https://www.smartworksoffice.com) (₹500/day) | 2.5 km from Wakad societies; 4 km from Blue Ridge |
+| **Trios Coworking (Wakad)** | [myHQ Trios White Square](https://myhq.in/coworking-spaces/pune) | **₹30,680** (₹26k + GST) | **₹35,400** (₹30k + GST) | [Trios on myHQ](https://myhq.in) (₹400/day) | 0.5–1.5 km from central Wakad societies |
 | **Bootstart Wakad** | [Bootstart Wakad Official](https://bootstart.in/coworking-space-in-wakad-pune/) | **₹28,320** (₹24k + GST) | **₹30,680** (₹26k + GST) | [Bootstart Pass](https://bootstart.in) (₹350/day) | 1.0–2.5 km from Wakad societies |
 
 ---
@@ -61,7 +61,7 @@ This guide benchmarks leading coworking operators across Baner/Balewadi, Wakad/H
 
 | Coworking Space | Direct Booking Link | 4 Flex Desks / Mo (Incl. GST) | 4 Dedicated Desks / Mo (Incl. GST) | Day Pass Link & Rate | Proximity to Major Societies |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **WeWork World Trade Center** | [WeWork WTC Kharadi](https://wework.co.in/workspace/pune/world-trade-center-kharadi) | **₹44,840** (₹38k + GST) | **₹84,960** (₹72k + GST) | [WeWork Pass](https://wework.co.in/pass) (₹650/day) | 0.8–2.0 km from Riverdale, Forest County, Nyati |
+| **WeWork World Trade Center** | [WeWork WTC Kharadi](https://www.wework.co.in/) | **₹44,840** (₹38k + GST) | **₹84,960** (₹72k + GST) | [WeWork Pass](https://www.wework.co.in/) (₹650/day) | 0.8–2.0 km from Riverdale, Forest County, Nyati |
 | **Awfis EON Free Zone** | [Awfis EON Kharadi](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi) | **₹28,320** (₹24k + GST) | **₹44,840** (₹38k + GST) | [Awfis EON](https://www.awfis.com) (₹400/day) | 1.0–2.5 km from Gera World of Joy, Zen Estate |
 | **Bootstart Kharadi** | [Bootstart Kharadi Official](https://bootstart.in/coworking-space-in-kharadi-pune/) | **₹23,600** (₹20k + GST) | **₹28,320** (₹24k + GST) | [Bootstart Pass](https://bootstart.in) (₹350/day) | 1.5–3.0 km from Kharadi societies |
 

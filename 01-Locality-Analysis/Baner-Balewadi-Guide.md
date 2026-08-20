@@ -15,20 +15,20 @@ The **Baner–Balewadi corridor** is widely considered the prime residential and
 1. **Core Balewadi (Near High Street)**:
    - *Price Range*: ₹38,000 – ₹45,000 (Semi-Furnished), ₹48,000 – ₹55,000 (Furnished).
    - *Key Societies*:
-     - **Aditya Comfort Zone**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-aditya-comfort-zone_balewadi-pune/search) | [99acres Link](https://www.99acres.com/3-bhk-flats-for-rent-in-aditya-comfort-zone-balewadi-pune-ffid)
-     - **Natu Golden Trellis**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-balewadi_pune) | [99acres Link](https://www.99acres.com/rent-property-in-balewadi-pune-ffid)
+     - **Aditya Comfort Zone**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-balewadi_pune) | [99acres Link](https://www.99acres.com/flats-for-rent-in-balewadi-pune-ffid)
+     - **Natu Golden Trellis**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-balewadi_pune) | [99acres Link](https://www.99acres.com/flats-for-rent-in-balewadi-pune-ffid)
    - *Highlights*: 3-minute drive to Balewadi High Street; excellent gated security, supermarket inside, and clubhouse amenities.
 2. **Baner-Pashan Link Road**:
    - *Price Range*: ₹38,000 – ₹44,000 (Semi-Furnished).
    - *Key Societies*:
-     - **Mont Vert Finesse / Biarritz**: [NoBroker Link](https://www.nobroker.in/property/rent/pune/Mont-Vert-Finesse_Pashan/t-search) | [99acres Link](https://www.99acres.com/3-bhk-flats-for-rent-in-mont-vert-finesse-pashan-pune-ffid)
-     - **Rohan Leher (I & II)**: [NoBroker Link](https://www.nobroker.in/property/rent/pune/Rohan-Leher_Baner/t-search) | [99acres Link](https://www.99acres.com/3-bhk-flats-for-rent-in-rohan-leher-baner-pune-ffid)
+     - **Mont Vert Finesse / Biarritz**: [NoBroker Link](https://www.nobroker.in/property/rent/pune/Mont-Vert-Finesse_Pashan/t-search) | [99acres Link](https://www.99acres.com/flats-for-rent-in-pashan-pune-ffid)
+     - **Rohan Leher (I & II)**: [NoBroker Link](https://www.nobroker.in/property/rent/pune/Rohan-Leher_Baner/t-search) | [99acres Link](https://www.99acres.com/flats-for-rent-in-baner-pune-ffid)
    - *Highlights*: Serene, greener foothills, low noise pollution, premium gated communities with swimming pools and tennis courts.
 3. **Mahalunge & Sus (Baner Annexe / 5–8 mins to Balewadi)**:
    - *Price Range*: **₹30,000 – ₹38,000** (Semi to Fully Furnished).
    - *Key Societies*:
-     - **Godrej Hillside / Green Cove**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Link](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid)
-     - **VTP Alpine / Leonara**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Link](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid)
+     - **Godrej Hillside / Green Cove**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Link](https://www.99acres.com/flats-for-rent-in-mahalunge-pune-ffid)
+     - **VTP Alpine / Leonara**: [NoBroker Link](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Link](https://www.99acres.com/flats-for-rent-in-mahalunge-pune-ffid)
    - *Highlights*: **Maximum value-for-money**; brand-new construction, 40+ lifestyle amenities, 100% DG power backup.
 
 ---
@@ -37,10 +37,10 @@ The **Baner–Balewadi corridor** is widely considered the prime residential and
 
 | Space | Location | Direct Booking Link | 4 Flex Desks / Mo (Incl. GST) | Day Pass Link | Distance from Residences |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **WeWork Eleven West** | Veerbhadra Nagar, Baner | [WeWork Eleven West](https://wework.co.in/workspace/pune/eleven-west-baner) | **₹44,840** | [WeWork Pass](https://wework.co.in/pass) (₹850/day) | 1.0 – 2.5 km (5–8 mins) |
-| **IndiQube ATP** | Amar Tech Park, Balewadi | [myHQ IndiQube ATP](https://myhq.in/coworking-space/indiqube-atp-balewadi-pune) | **₹33,040** | [myHQ Pass](https://myhq.in) (₹500/day) | 0.8 – 1.5 km (3–5 mins) |
+| **WeWork Eleven West** | Veerbhadra Nagar, Baner | [WeWork Eleven West](https://www.wework.co.in/) | **₹44,840** | [WeWork Pass](https://www.wework.co.in/) (₹850/day) | 1.0 – 2.5 km (5–8 mins) |
+| **IndiQube ATP** | Amar Tech Park, Balewadi | [myHQ IndiQube ATP](https://myhq.in/coworking-spaces/pune) | **₹33,040** | [myHQ Pass](https://myhq.in) (₹500/day) | 0.8 – 1.5 km (3–5 mins) |
 | **Awfis The Kode** | Baner-Pashan Link Rd | [Awfis The Kode](https://www.awfis.com/coworking/pune/the-kode-baner-pashan-link-road) | **₹37,760** | [Awfis Pass](https://www.awfis.com) (₹550/day) | 0.5 – 1.5 km (2–4 mins) |
-| **Workflo by OYO** | Icon Tower, Baner | [myHQ Workflo Icon](https://myhq.in/coworking-space/workflo-icon-tower-baner-pune) | **₹28,320** | [myHQ Pass](https://myhq.in) (₹500/day) | 1.5 – 2.5 km (6 mins) |
+| **Workflo by OYO** | Icon Tower, Baner | [myHQ Workflo Icon](https://myhq.in/coworking-spaces/pune) | **₹28,320** | [myHQ Pass](https://myhq.in) (₹500/day) | 1.5 – 2.5 km (6 mins) |
 
 ---
 

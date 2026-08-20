@@ -8,12 +8,12 @@ This directory provides direct search URLs, filter links, and communication temp
 
 | Locality / Cluster | NoBroker Direct Link (Zero Brokerage) | 99acres Direct Link | Magicbricks Direct Link |
 | :--- | :--- | :--- | :--- |
-| **Baner** | [NoBroker Baner 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-baner_pune) | [99acres Baner 3 BHK](https://www.99acres.com/rent-property-in-baner-pune-ffid) | [Magicbricks Baner](https://www.magicbricks.com/property-for-rent/residential-real-estate-baner-pune) |
-| **Balewadi** | [NoBroker Balewadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-balewadi_pune) | [99acres Balewadi 3 BHK](https://www.99acres.com/rent-property-in-balewadi-pune-ffid) | [Magicbricks Balewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Balewadi-Pune) |
-| **Mahalunge (Baner Annexe)** | [NoBroker Mahalunge Rentals](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Mahalunge 3 BHK](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid) | [Magicbricks Mahalunge](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Mahalunge-Pune) |
-| **Wakad** | [NoBroker Wakad 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-wakad_pune) | [99acres Wakad 3 BHK](https://www.99acres.com/3-bhk-flats-for-rent-in-wakad-pune-ffid) | [Magicbricks Wakad](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Wakad-Pune) |
-| **Hinjewadi (Phase 1, 2, 3)** | [NoBroker Hinjewadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-hinjewadi_pune) | [99acres Hinjewadi 3 BHK](https://www.99acres.com/3-bhk-flats-for-rent-in-hinjewadi-pune-ffid) | [Magicbricks Hinjewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Hinjewadi&cityName=Pune) |
-| **Kharadi** | [NoBroker Kharadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [99acres Kharadi 3 BHK](https://www.99acres.com/rent-property-in-kharadi-pune-ffid) | [Magicbricks Kharadi](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Kharadi-Pune) |
+| **Baner** | [NoBroker Baner 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-baner_pune) | [99acres Baner 3 BHK](https://www.99acres.com/flats-for-rent-in-baner-pune-ffid) | [Magicbricks Baner](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Baner&cityName=Pune) |
+| **Balewadi** | [NoBroker Balewadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-balewadi_pune) | [99acres Balewadi 3 BHK](https://www.99acres.com/flats-for-rent-in-balewadi-pune-ffid) | [Magicbricks Balewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Balewadi&cityName=Pune) |
+| **Mahalunge (Baner Annexe)** | [NoBroker Mahalunge Rentals](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Mahalunge 3 BHK](https://www.99acres.com/flats-for-rent-in-mahalunge-pune-ffid) | [Magicbricks Mahalunge](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Mahalunge&cityName=Pune) |
+| **Wakad** | [NoBroker Wakad 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-wakad_pune) | [99acres Wakad 3 BHK](https://www.99acres.com/flats-for-rent-in-wakad-pune-ffid) | [Magicbricks Wakad](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Wakad&cityName=Pune) |
+| **Hinjewadi (Phase 1, 2, 3)** | [NoBroker Hinjewadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-hinjewadi_pune) | [99acres Hinjewadi 3 BHK](https://www.99acres.com/flats-for-rent-in-hinjewadi-pune-ffid) | [Magicbricks Hinjewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Hinjewadi&cityName=Pune) |
+| **Kharadi** | [NoBroker Kharadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [99acres Kharadi 3 BHK](https://www.99acres.com/flats-for-rent-in-kharadi-pune-ffid) | [Magicbricks Kharadi](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Kharadi&cityName=Pune) |
 
 ---
 
@@ -21,15 +21,15 @@ This directory provides direct search URLs, filter links, and communication temp
 
 | Provider & Location | Direct Center Booking URL | Day Pass Booking URL |
 | :--- | :--- | :--- |
-| **WeWork Eleven West (Baner)** | [https://wework.co.in/workspace/pune/eleven-west-baner](https://wework.co.in/workspace/pune/eleven-west-baner) | [https://wework.co.in/pass](https://wework.co.in/pass) |
-| **WeWork WTC (Kharadi)** | [https://wework.co.in/workspace/pune/world-trade-center-kharadi](https://wework.co.in/workspace/pune/world-trade-center-kharadi) | [https://wework.co.in/pass](https://wework.co.in/pass) |
-| **IndiQube ATP (Balewadi)** | [https://myhq.in/coworking-space/indiqube-atp-balewadi-pune](https://myhq.in/coworking-space/indiqube-atp-balewadi-pune) | [https://myhq.in](https://myhq.in) |
+| **WeWork Eleven West (Baner)** | [https://www.wework.co.in/](https://www.wework.co.in/) | [https://www.wework.co.in/](https://www.wework.co.in/) |
+| **WeWork WTC (Kharadi)** | [https://www.wework.co.in/](https://www.wework.co.in/) | [https://www.wework.co.in/](https://www.wework.co.in/) |
+| **IndiQube ATP (Balewadi)** | [https://myhq.in/coworking-spaces/pune](https://myhq.in/coworking-spaces/pune) | [https://myhq.in](https://myhq.in) |
 | **Awfis The Kode (Baner)** | [https://www.awfis.com/coworking/pune/the-kode-baner-pashan-link-road](https://www.awfis.com/coworking/pune/the-kode-baner-pashan-link-road) | [https://www.awfis.com/coworking/pune](https://www.awfis.com/coworking/pune) |
 | **Awfis Hinjewadi Phase 1** | [https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi](https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi) | [https://www.awfis.com/coworking/pune](https://www.awfis.com/coworking/pune) |
 | **Awfis EON Free Zone (Kharadi)** | [https://www.awfis.com/coworking/pune/eon-free-zone-kharadi](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi) | [https://www.awfis.com/coworking/pune](https://www.awfis.com/coworking/pune) |
-| **Workflo Icon Tower (Baner)** | [https://myhq.in/coworking-space/workflo-icon-tower-baner-pune](https://myhq.in/coworking-space/workflo-icon-tower-baner-pune) | [https://myhq.in](https://myhq.in) |
-| **Smartworks Malpani Agile (Baner/Wakad)** | [https://www.smartworksoffice.com/coworking-space/pune/malpani-agile](https://www.smartworksoffice.com/coworking-space/pune/malpani-agile) | [https://www.smartworksoffice.com](https://www.smartworksoffice.com) |
-| **Trios White Square (Wakad)** | [https://myhq.in/coworking-space/trios-coworking-space-white-square-wakad-pune](https://myhq.in/coworking-space/trios-coworking-space-white-square-wakad-pune) | [https://myhq.in](https://myhq.in) |
+| **Workflo Icon Tower (Baner)** | [https://myhq.in/coworking-spaces/pune](https://myhq.in/coworking-spaces/pune) | [https://myhq.in](https://myhq.in) |
+| **Smartworks Malpani Agile (Baner/Wakad)** | [https://www.smartworksoffice.com/coworking-space/pune](https://www.smartworksoffice.com/coworking-space/pune) | [https://www.smartworksoffice.com](https://www.smartworksoffice.com) |
+| **Trios White Square (Wakad)** | [https://myhq.in/coworking-spaces/pune](https://myhq.in/coworking-spaces/pune) | [https://myhq.in](https://myhq.in) |
 | **Bootstart Wakad** | [https://bootstart.in/coworking-space-in-wakad-pune/](https://bootstart.in/coworking-space-in-wakad-pune/) | [https://bootstart.in](https://bootstart.in) |
 | **Bootstart Kharadi** | [https://bootstart.in/coworking-space-in-kharadi-pune/](https://bootstart.in/coworking-space-in-kharadi-pune/) | [https://bootstart.in](https://bootstart.in) |
 
