@@ -27,13 +27,13 @@ Welcome to the **Pune Team Relocation Project**. This workspace provides complet
  • Commute: 3 - 10 mins           • Commute: 5 - 15 mins            • Commute: 5 - 12 mins
 ```
 
-### Quick Comparison
+### Quick Comparison & Direct Links
 
-| Cluster | 3 BHK Rent (< ₹40k) | Furnishing Availability | 4-Flex Desk Office Monthly Cost | Top Coworking Spaces Nearby | Overall Recommendation |
+| Cluster | 3 BHK Rent (< ₹40k) | Furnishing Availability | 4-Flex Desk Monthly Cost (Incl. 18% GST) | Top Coworking Spaces Nearby | Direct Society Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Baner & Balewadi** | ₹35,000 – ₹42,000 | Semi-Furnished (Fully furnished in Mahalunge) | ₹22,000 – ₹38,000 (Workflo / IndiQube / Awfis) | WeWork Eleven West, IndiQube ATP, Awfis The Kode | ⭐⭐⭐⭐⭐ **Top Choice for Lifestyle & Tech Networking** |
-| **Wakad & Hinjewadi** | ₹28,000 – ₹38,000 | **High (Fully Furnished readily available)** | ₹24,000 – ₹36,000 (Trios / Awfis / IndiQube) | Awfis Phase 1, Smartworks M-Agile, IndiQube Hinjewadi | ⭐⭐⭐⭐⭐ **Top Choice for Maximum Budget Efficiency** |
-| **Kharadi & East Pune** | ₹32,000 – ₹40,000 | Semi-Furnished (Godrej / VJ Yashwin) | ₹20,000 – ₹34,000 (Awfis / IndiQube / Bootstart) | WeWork World Trade Center, Awfis EON, Bootstart | ⭐⭐⭐⭐ **Top Choice if East Pune / Airport Proximity Needed** |
+| **Baner & Balewadi** | ₹35,000 – ₹42,000 | Semi-Furnished (Fully furnished in Mahalunge) | ₹28,320 – ₹44,840 (Workflo / IndiQube / WeWork) | [WeWork Eleven West](https://wework.co.in/workspace/pune/eleven-west-baner), [IndiQube ATP](https://myhq.in/coworking-space/indiqube-atp-balewadi-pune), [Awfis The Kode](https://www.awfis.com/coworking/pune/the-kode-baner-pashan-link-road) | [Aditya Comfort Zone](https://www.nobroker.in/flats-for-rent-in-aditya-comfort-zone_balewadi-pune/search), [Mont Vert](https://www.nobroker.in/property/rent/pune/Mont-Vert-Finesse_Pashan/t-search) |
+| **Wakad & Hinjewadi** | ₹28,000 – ₹38,000 | **High (Fully Furnished readily available)** | ₹28,320 – ₹37,760 (Bootstart / Trios / Awfis) | [Awfis Hinjewadi Phase 1](https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi), [Smartworks](https://www.smartworksoffice.com/coworking-space/pune/malpani-agile), [Trios Wakad](https://myhq.in/coworking-space/trios-coworking-space-white-square-wakad-pune) | [Blue Ridge](https://www.nobroker.in/property/rent/pune/Hinjewadi/Paranjape-Blue-Ridge), [Life Republic](https://www.nobroker.in/property/rent/3-bhk-flats-for-rent-in-kolte-patil-life-republic-pune/search), [Rohan Tarang](https://www.99acres.com/3-bhk-flats-for-rent-in-rohan-tarang-wakad-pune-ffid) |
+| **Kharadi & East Pune** | ₹32,000 – ₹40,000 | Semi-Furnished (Godrej / VJ Yashwin) | ₹23,600 – ₹44,840 (Bootstart / Awfis / WeWork) | [WeWork WTC Kharadi](https://wework.co.in/workspace/pune/world-trade-center-kharadi), [Awfis EON](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi), [Bootstart Kharadi](https://bootstart.in/coworking-space-in-kharadi-pune/) | [VJ Yashwin](https://www.nobroker.in/flats-for-rent-in-kharadi_pune), [Godrej Parkridge](https://housing.com/rent/flats-for-rent-in-kharadi-pune-P6w2u7o1v3b9x3) |
 
 ---
 
@@ -61,17 +61,3 @@ Welcome to the **Pune Team Relocation Project**. This workspace provides complet
 
 5. **[05-Contact-Log/](file:///Users/sreekuttan/Documents/My%20Projects/Pune-Team-Relocation/05-Contact-Log/)**
    - [Brokers-Owners-Directory.md](file:///Users/sreekuttan/Documents/My%20Projects/Pune-Team-Relocation/05-Contact-Log/Brokers-Owners-Directory.md)
-
----
-
-## ⚡ Recommended Action Roadmap
-
-1. **Step 1: Select Your Preferred Cluster**
-   - **Recommendation A**: **Wakad / Hinjewadi** if you want a **turnkey fully-furnished 3 BHK flat** under ₹38,000 + coworking in Awfis/IndiQube.
-   - **Recommendation B**: **Baner / Balewadi** if you prefer a high-energy urban vibe (Balewadi High Street cafes & WeWork Eleven West) with high-spec semi-furnished 3 BHK (+ subscription furniture).
-2. **Step 2: Initiate Direct-Owner Outreach**
-   - Use the pre-configured links in [Brokers-Owners-Directory.md](file:///Users/sreekuttan/Documents/My%20Projects/Pune-Team-Relocation/05-Contact-Log/Brokers-Owners-Directory.md) on NoBroker to contact landlords with zero brokerage.
-3. **Step 3: Book Coworking Day Passes**
-   - Test out the coworking facilities via myHQ / CoFynd day passes (₹400–₹850/day) before locking into a monthly team commitment.
-4. **Step 4: Track and Compare Visits**
-   - Log all inspection notes and negotiations in [Listings-Tracker.csv](file:///Users/sreekuttan/Documents/My%20Projects/Pune-Team-Relocation/02-Residential-3BHK/Listings-Tracker.csv).

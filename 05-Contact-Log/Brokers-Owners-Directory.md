@@ -1,31 +1,37 @@
 # Real Estate & Workspace Directory: Portals, Platforms & Direct Contacts
 
-This directory contains direct URLs, search filters, and communication templates for reaching landlords, brokers, and coworking space managers in Pune.
+This directory provides direct search URLs, filter links, and communication templates for inspecting residential 3 BHKs and booking coworking spaces across Pune.
 
 ---
 
-## 1. Direct Residential Rental Portals
+## 1. Direct Residential Rental Portals by Locality
 
-| Platform | Recommended Search Filters | Best For | Direct Link |
+| Locality / Cluster | NoBroker Direct Link (Zero Brokerage) | 99acres Direct Link | Magicbricks Direct Link |
 | :--- | :--- | :--- | :--- |
-| **NoBroker Pune** | Locality: Baner / Balewadi / Wakad / Hinjewadi<br>Type: 3 BHK<br>Rent: Max ₹40,000<br>Owner-only listings | Direct owner negotiations, Zero Brokerage, Registered rent agreement assistance | [nobroker.in/pune/rent](https://www.nobroker.in/pune/rent) |
-| **Housing.com** | City: Pune<br>BHK: 3 BHK<br>Budget: ₹30k–₹40k<br>Verified Photos / Gated Security | High-resolution walkthrough photos, verified property badges | [housing.com/rent/flats-for-rent-in-pune](https://housing.com/rent/flats-for-rent-in-pune-maharashtra-P39886u8) |
-| **MagicBricks Pune** | Localities: Baner, Balewadi, Wakad, Hinjewadi, Kharadi<br>Property Type: Multistorey Apartment | Comprehensive society directory reviews, tenant feedback | [magicbricks.com/residential-real-estate-pune](https://www.magicbricks.com/property-for-rent/residential-real-estate-pune) |
-| **99acres Pune** | Budget: Up to ₹40k<br>Property Category: Residential 3 BHK | Large inventory in mega-townships (Megapolis, Life Republic, Blue Ridge) | [99acres.com/rent-property-in-pune](https://www.99acres.com/rent-property-in-pune-ffid) |
-| **SquareYards Pune** | Filter: Gated Society, 3 BHK, Furnished/Semi | Verified broker listings with dedicated assistance | [squareyards.com/rent-property-in-pune](https://www.squareyards.com/rent/property-for-rent-in-pune) |
+| **Baner** | [NoBroker Baner 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-baner_pune) | [99acres Baner 3 BHK](https://www.99acres.com/rent-property-in-baner-pune-ffid) | [Magicbricks Baner](https://www.magicbricks.com/property-for-rent/residential-real-estate-baner-pune) |
+| **Balewadi** | [NoBroker Balewadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-balewadi_pune) | [99acres Balewadi 3 BHK](https://www.99acres.com/rent-property-in-balewadi-pune-ffid) | [Magicbricks Balewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Balewadi-Pune) |
+| **Mahalunge (Baner Annexe)** | [NoBroker Mahalunge Rentals](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune) | [99acres Mahalunge 3 BHK](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid) | [Magicbricks Mahalunge](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Mahalunge-Pune) |
+| **Wakad** | [NoBroker Wakad 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-wakad_pune) | [99acres Wakad 3 BHK](https://www.99acres.com/3-bhk-flats-for-rent-in-wakad-pune-ffid) | [Magicbricks Wakad](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Wakad-Pune) |
+| **Hinjewadi (Phase 1, 2, 3)** | [NoBroker Hinjewadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-hinjewadi_pune) | [99acres Hinjewadi 3 BHK](https://www.99acres.com/3-bhk-flats-for-rent-in-hinjewadi-pune-ffid) | [Magicbricks Hinjewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Hinjewadi&cityName=Pune) |
+| **Kharadi** | [NoBroker Kharadi 3 BHK Rentals](https://www.nobroker.in/flats-for-rent-in-kharadi_pune) | [99acres Kharadi 3 BHK](https://www.99acres.com/rent-property-in-kharadi-pune-ffid) | [Magicbricks Kharadi](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Kharadi-Pune) |
 
 ---
 
-## 2. Coworking & Office Booking Portals
+## 2. Direct Coworking Booking Portals
 
-| Platform | Best For | Direct Portal Link |
+| Provider & Location | Direct Center Booking URL | Day Pass Booking URL |
 | :--- | :--- | :--- |
-| **myHQ Pune** | Instant flexible day passes & discounted monthly team bundles (Awfis, IndiQube, Supreme HQ) | [myhq.in/coworking-space/pune](https://myhq.in/coworking-space/pune) |
-| **CoFynd Pune** | Multi-space tour scheduling & negotiated enterprise rates | [cofynd.com/coworking/pune](https://cofynd.com/coworking/pune) |
-| **WeWork India** | Direct booking for WeWork Eleven West (Baner) & WTC (Kharadi) | [wework.co.in/locations/pune](https://www.wework.co.in) |
-| **Awfis Space Solutions** | Dedicated desks & private team suites in Baner, Hinjewadi & Kharadi | [awfis.com/coworking/pune](https://www.awfis.com) |
-| **Bootstart Coworking** | Budget-friendly flex desks across Pune (Baner, Wakad, Kharadi, Viman Nagar) | [bootstart.in/coworking-spaces-in-pune](https://bootstart.in) |
-| **Qdesq Workspaces** | Managed office quotes and customized seat layouts | [qdesq.com/coworking-space/pune](https://www.qdesq.com) |
+| **WeWork Eleven West (Baner)** | [https://wework.co.in/workspace/pune/eleven-west-baner](https://wework.co.in/workspace/pune/eleven-west-baner) | [https://wework.co.in/pass](https://wework.co.in/pass) |
+| **WeWork WTC (Kharadi)** | [https://wework.co.in/workspace/pune/world-trade-center-kharadi](https://wework.co.in/workspace/pune/world-trade-center-kharadi) | [https://wework.co.in/pass](https://wework.co.in/pass) |
+| **IndiQube ATP (Balewadi)** | [https://myhq.in/coworking-space/indiqube-atp-balewadi-pune](https://myhq.in/coworking-space/indiqube-atp-balewadi-pune) | [https://myhq.in](https://myhq.in) |
+| **Awfis The Kode (Baner)** | [https://www.awfis.com/coworking/pune/the-kode-baner-pashan-link-road](https://www.awfis.com/coworking/pune/the-kode-baner-pashan-link-road) | [https://www.awfis.com/coworking/pune](https://www.awfis.com/coworking/pune) |
+| **Awfis Hinjewadi Phase 1** | [https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi](https://www.awfis.com/coworking/pune/embassy-techzone-hinjewadi) | [https://www.awfis.com/coworking/pune](https://www.awfis.com/coworking/pune) |
+| **Awfis EON Free Zone (Kharadi)** | [https://www.awfis.com/coworking/pune/eon-free-zone-kharadi](https://www.awfis.com/coworking/pune/eon-free-zone-kharadi) | [https://www.awfis.com/coworking/pune](https://www.awfis.com/coworking/pune) |
+| **Workflo Icon Tower (Baner)** | [https://myhq.in/coworking-space/workflo-icon-tower-baner-pune](https://myhq.in/coworking-space/workflo-icon-tower-baner-pune) | [https://myhq.in](https://myhq.in) |
+| **Smartworks Malpani Agile (Baner/Wakad)** | [https://www.smartworksoffice.com/coworking-space/pune/malpani-agile](https://www.smartworksoffice.com/coworking-space/pune/malpani-agile) | [https://www.smartworksoffice.com](https://www.smartworksoffice.com) |
+| **Trios White Square (Wakad)** | [https://myhq.in/coworking-space/trios-coworking-space-white-square-wakad-pune](https://myhq.in/coworking-space/trios-coworking-space-white-square-wakad-pune) | [https://myhq.in](https://myhq.in) |
+| **Bootstart Wakad** | [https://bootstart.in/coworking-space-in-wakad-pune/](https://bootstart.in/coworking-space-in-wakad-pune/) | [https://bootstart.in](https://bootstart.in) |
+| **Bootstart Kharadi** | [https://bootstart.in/coworking-space-in-kharadi-pune/](https://bootstart.in/coworking-space-in-kharadi-pune/) | [https://bootstart.in](https://bootstart.in) |
 
 ---
 
@@ -34,12 +40,12 @@ This directory contains direct URLs, search filters, and communication templates
 ### A. WhatsApp / Message Template for Apartment Landlords:
 ```text
 Hi [Owner Name],
-I came across your 3 BHK listing at [Society Name, e.g., Blue Ridge / Aditya Comfort Zone] on [NoBroker/Housing]. 
-We are a professional tech team relocating to Pune. We are looking for a clean, well-maintained flat with immediate/near-term move-in.
+I came across your 3 BHK listing at [Society Name, e.g., Blue Ridge / Aditya Comfort Zone] on [NoBroker/Housing/99acres]. 
+We are a professional tech team relocating to Pune. We are looking for a clean, well-maintained flat with immediate move-in.
 Could you please confirm:
-1. Is the flat currently available for visit?
+1. Is the flat currently available for physical inspection?
 2. Does the quoted rent of ₹[Amount] include society maintenance?
-3. Is power backup available for internal points?
+3. Is power backup available for internal lighting and fan points?
 4. What is the expected security deposit?
 Looking forward to scheduling a quick visit this week. Thank you!
 ```

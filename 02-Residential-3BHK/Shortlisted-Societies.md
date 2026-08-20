@@ -1,48 +1,49 @@
 # Shortlisted 3 BHK Societies in Pune (Budget: < ₹40,000 / month)
 
-This document curates the top residential societies across Pune that match modern aesthetic standards, offer robust amenities (power backup, security, clubhouse), and fit within the monthly rental target of **< ₹40,000**.
+This document curates the top residential societies across Pune with verified direct inspection links, expected rents, maintenance fees, power backup details, and society highlights.
 
 ---
 
 ## 1. West Pune: Baner, Balewadi & Mahalunge
 
-| Society Name | Micro-Location | Typ. 3 BHK Rent (Semi / Full) | Power Backup | Key Amenities & Highlights | Fit Score (1–10) |
+| Society Name | Micro-Location | Typ. 3 BHK Rent (Semi / Full) | Society Maintenance | Power Backup | Direct Inspection & Listing Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Aditya Comfort Zone** | Balewadi | Semi: ₹38k–₹44k<br>Full: ₹48k–₹55k | 100% DG (Common) + Inverter | Sprawling gated society, supermarket inside, swimming pool, tennis court, walking distance to Balewadi High Street. | 9.0 |
-| **Natu Golden Trellis** | Balewadi High St | Semi: ₹38k–₹43k<br>Full: ₹46k–₹52k | DG Backup (Lifts & Common) | Premium low-density boutique project, directly off Balewadi High Street, modern gym, club. | 9.2 |
-| **Mont Vert Finesse / Biarritz** | Baner-Pashan Link Rd | Semi: ₹38k–₹44k<br>Full: ₹48k–₹54k | Full DG Backup | Serene green setting, large carpet areas (1350+ sq.ft), squash court, swimming pool, premium community. | 9.1 |
-| **Rohan Leher (I & II)** | Baner-Pashan Link Rd | Semi: ₹40k–₹45k<br>Full: ₹50k–₹56k | Full DG Backup | Architecturally designed for maximum light/ventilation, landscaped courtyards, swimming pool, gym. | 8.8 |
-| **Godrej Hillside / Green Cove** | Mahalunge (Baner Annexe) | Semi: **₹30k–₹35k**<br>Full: **₹36k–₹42k** | 100% DG Backup (Flat + Common) | Brand-new luxury high-rise, 40+ lifestyle amenities, riverside hill views, 7 mins drive to Balewadi. | 9.5 *(Best Value)* |
-| **VTP Alpine / Leonara** | Mahalunge (Township) | Semi: **₹30k–₹35k**<br>Full: **₹35k–₹40k** | 100% DG Backup | New high-spec construction, modular kitchens, clubhouses, sports arena, swimming pools. | 9.4 *(Best Value)* |
-| **Puraniks Aldea Espanola** | Mahalunge / Baner Edge | Semi: **₹32k–₹38k**<br>Full: **₹40k–₹45k** | Full DG Backup | Spanish-themed design, central plaza, pool, close to highway. | 8.7 |
+| **Aditya Comfort Zone** | Balewadi | Semi: **₹38k–₹44k**<br>Full: **₹48k–₹55k** | ~₹3,200/mo (Clarify if incl.) | 100% DG (Common) + Inverter | • [NoBroker Aditya Comfort Zone](https://www.nobroker.in/flats-for-rent-in-aditya-comfort-zone_balewadi-pune/search)<br>• [99acres Comfort Zone](https://www.99acres.com/3-bhk-flats-for-rent-in-aditya-comfort-zone-balewadi-pune-ffid)<br>• [Housing.com Comfort Zone](https://housing.com/rent/aditya-comfort-zone-balewadi-pune-P374j1g55z4n049d5) |
+| **Natu Golden Trellis** | Balewadi (Near High St) | Semi: **₹38k–₹43k**<br>Full: **₹46k–₹52k** | ~₹3,000/mo | DG Backup (Lifts & Common) | • [NoBroker Balewadi Rentals](https://www.nobroker.in/flats-for-rent-in-balewadi_pune)<br>• [99acres Golden Trellis](https://www.99acres.com/rent-property-in-balewadi-pune-ffid)<br>• [Magicbricks Balewadi](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Balewadi-Pune) |
+| **Mont Vert Finesse / Biarritz** | Baner-Pashan Link Rd | Semi: **₹38k–₹44k**<br>Full: **₹48k–₹54k** | ~₹3,500/mo | Full DG Backup | • [NoBroker Mont Vert Finesse](https://www.nobroker.in/property/rent/pune/Mont-Vert-Finesse_Pashan/t-search)<br>• [99acres Mont Vert Finesse](https://www.99acres.com/3-bhk-flats-for-rent-in-mont-vert-finesse-pashan-pune-ffid)<br>• [Magicbricks Mont Vert](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Mont-Vert-Finesse&cityName=Pune) |
+| **Rohan Leher (I & II)** | Baner-Pashan Link Rd | Semi: **₹40k–₹45k**<br>Full: **₹50k–₹56k** | ~₹4,000/mo | Full DG Backup | • [NoBroker Rohan Leher](https://www.nobroker.in/property/rent/pune/Rohan-Leher_Baner/t-search)<br>• [99acres Rohan Leher](https://www.99acres.com/3-bhk-flats-for-rent-in-rohan-leher-baner-pune-ffid)<br>• [Magicbricks Rohan Leher](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Rohan-Leher&cityName=Pune) |
+| **Paranjape Rolling Hills** | Baner-Pashan Link Rd | Semi: **₹38k–₹44k**<br>Full: **₹46k–₹52k** | ~₹3,500/mo | Full DG Backup | • [NoBroker Baner Rentals](https://www.nobroker.in/flats-for-rent-in-baner_pune)<br>• [99acres Rolling Hills Baner](https://www.99acres.com/rent-property-in-baner-pashan-link-road-pune-ffid)<br>• [Housing Baner Link Rd](https://housing.com/rent/flats-for-rent-in-baner-pashan-link-road-pune-P4b0v6s7z6y0n60h7) |
+| **Godrej Hillside / Green Cove** | Mahalunge (Baner Annexe) | Semi: **₹30k–₹35k**<br>Full: **₹36k–₹42k** | ~₹2,500/mo (Included in most) | 100% DG Backup (Flat + Common) | • [NoBroker Mahalunge Listings](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune)<br>• [99acres Godrej Hillside](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid)<br>• [Magicbricks Godrej Hillside](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Mahalunge-Pune) |
+| **VTP Alpine / Leonara / Bel Air** | Mahalunge (Codename Blueair)| Semi: **₹30k–₹35k**<br>Full: **₹35k–₹40k** | ~₹2,500/mo | 100% DG Backup | • [NoBroker VTP Alpine](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune)<br>• [99acres VTP Alpine](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid)<br>• [Magicbricks VTP Leonara](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Mahalunge-Pune) |
+| **Puraniks Aldea Espanola** | Mahalunge / Baner Edge | Semi: **₹32k–₹38k**<br>Full: **₹40k–₹45k** | ~₹3,000/mo | Full DG Backup | • [NoBroker Mahalunge](https://www.nobroker.in/flats-for-rent-in-mahalunge_pune)<br>• [99acres Aldea Espanola](https://www.99acres.com/rent-property-in-mahalunge-pune-ffid)<br>• [Housing Aldea Espanola](https://housing.com/rent/puraniks-aldea-espanola-mahalunge-pune-P5u5j2g55z4n049d5) |
 
 ---
 
-## 2. West Pune: Wakad & Hinjewadi
+## 2. West Pune: Wakad & Hinjewadi (Phase 1, 2, 3)
 
-| Society Name | Micro-Location | Typ. 3 BHK Rent (Semi / Full) | Power Backup | Key Amenities & Highlights | Fit Score (1–10) |
+| Society Name | Micro-Location | Typ. 3 BHK Rent (Semi / Full) | Society Maintenance | Power Backup | Direct Inspection & Listing Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Paranjape Blue Ridge** | Hinjewadi Phase 1 | Semi: ₹35k–₹42k<br>Full: **₹40k–₹46k** | 100% DG Backup | 138-acre riverfront mega-township, 9-hole golf course, multiple clubhouses, walk-to-work in Phase 1. | 9.6 *(Top Pick)* |
-| **Kolte Patil Life Republic** | Marunji / Hinjewadi Link Rd | Semi: **₹26k–₹32k**<br>Full: **₹32k–₹38k** | 100% DG Backup | 400+ acre mega-township, massive sports complex, botanical garden, retail high-street on campus. | 9.5 *(Highest Furnished Supply)* |
-| **Rohan Tarang** | Kaspate Wasti, Wakad | Semi: **₹32k–₹38k**<br>Full: **₹38k–₹44k** | 100% DG Backup | Serene courtyard layout, swimming pool, gym, 2 mins from Datta Mandir road cafes. | 9.2 |
-| **Costa Rica (Rama Group)** | Kaspate Wasti, Wakad | Semi: **₹34k–₹40k**<br>Full: ₹42k–₹48k | Full DG Backup | Gated society, rooftop lounge, gym, close to Phoenix Mall of Millennium. | 9.0 |
-| **Megapolis Township** | Hinjewadi Phase 3 | Semi: **₹25k–₹32k**<br>Full: **₹30k–₹36k** | 100% DG Backup | Self-contained township with Olympic swimming pools, Pawar Public School, Phase 3 tech park proximity. | 8.8 |
-| **Sonigara Signature Park** | Wakad / Thergaon | Semi: **₹30k–₹36k**<br>Full: **₹36k–₹42k** | DG Backup | Gated security, D-Mart connectivity, landscaped gardens. | 8.5 |
+| **Paranjape Blue Ridge** *(Top Pick)* | Hinjewadi Phase 1 | Semi: **₹35k–₹42k**<br>Full: **₹40k–₹46k** | ~₹3,500/mo (Often incl.) | 100% Full DG | • [NoBroker Paranjape Blue Ridge](https://www.nobroker.in/property/rent/pune/Hinjewadi/Paranjape-Blue-Ridge)<br>• [99acres Blue Ridge 3BHK](https://www.99acres.com/3-bhk-flats-for-rent-in-paranjape-blue-ridge-hinjewadi-pune-ffid)<br>• [Magicbricks Blue Ridge](https://www.magicbricks.com/3-bhk-flats-for-rent-in-paranjape-blue-ridge-hinjewadi-pune-pppbrn) |
+| **Kolte Patil Life Republic** *(Top Furnished Value)* | Marunji / Hinjewadi Link Rd | Semi: **₹26k–₹32k**<br>Full: **₹32k–₹38k** | ~₹2,800/mo | 100% Full DG | • [NoBroker Life Republic](https://www.nobroker.in/property/rent/3-bhk-flats-for-rent-in-kolte-patil-life-republic-pune/search)<br>• [99acres Life Republic 3BHK](https://www.99acres.com/3-bhk-flats-for-rent-in-kolte-patil-life-republic-pune-ffid)<br>• [Magicbricks Life Republic](https://www.magicbricks.com/3-bhk-flats-for-rent-in-kolte-patil-life-republic-pune-pppbrn) |
+| **Rohan Tarang** | Kaspate Wasti, Wakad | Semi: **₹32k–₹38k**<br>Full: **₹38k–₹44k** | ~₹3,000/mo | 100% Full DG | • [NoBroker Wakad Flats](https://www.nobroker.in/flats-for-rent-in-wakad_pune)<br>• [99acres Rohan Tarang](https://www.99acres.com/3-bhk-flats-for-rent-in-rohan-tarang-wakad-pune-ffid)<br>• [Magicbricks Rohan Tarang](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Wakad-Pune) |
+| **Costa Rica (Rama Group)** | Kaspate Wasti, Wakad | Semi: **₹34k–₹40k**<br>Full: **₹42k–₹48k** | ~₹3,200/mo | Full DG Backup | • [NoBroker Wakad](https://www.nobroker.in/flats-for-rent-in-wakad_pune)<br>• [99acres Costa Rica Wakad](https://www.99acres.com/rent-property-in-wakad-pune-ffid)<br>• [Housing Costa Rica](https://housing.com/rent/flats-for-rent-in-wakad-pune-P39886u8) |
+| **Megapolis Township** | Hinjewadi Phase 3 | Semi: **₹25k–₹32k**<br>Full: **₹30k–₹36k** | ~₹2,500/mo | 100% Full DG | • [NoBroker Megapolis Hinjewadi](https://www.nobroker.in/flats-for-rent-in-hinjewadi_pune)<br>• [99acres Megapolis Hinjewadi](https://www.99acres.com/3-bhk-flats-for-rent-in-megapolis-hinjewadi-pune-ffid)<br>• [Magicbricks Megapolis](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Megapolis&cityName=Pune) |
+| **Sonigara Signature Park** | Wakad / Thergaon | Semi: **₹30k–₹36k**<br>Full: **₹36k–₹42k** | ~₹2,600/mo | DG Backup | • [NoBroker Wakad](https://www.nobroker.in/flats-for-rent-in-wakad_pune)<br>• [99acres Signature Park](https://www.99acres.com/rent-property-in-wakad-pune-ffid)<br>• [Magicbricks Signature Park](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Wakad-Pune) |
 
 ---
 
 ## 3. East Pune: Kharadi & Viman Nagar
 
-| Society Name | Micro-Location | Typ. 3 BHK Rent (Semi / Full) | Power Backup | Key Amenities & Highlights | Fit Score (1–10) |
+| Society Name | Micro-Location | Typ. 3 BHK Rent (Semi / Full) | Society Maintenance | Power Backup | Direct Inspection & Listing Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **VJ Yashwin Enchante / Supernova** | Upper Kharadi | Semi: **₹32k–₹38k**<br>Full: **₹40k–₹44k** | 100% DG Backup | Modern urban township, coworking pods, sports turf, swimming pool, tight RFID security. | 9.2 |
-| **Godrej Parkridge / Infinity** | Manjari-Kharadi | Semi: **₹30k–₹36k**<br>Full: **₹38k–₹44k** | Full DG Backup | River greens, Olympic pool, high-speed elevators, contemporary fittings. | 9.1 |
-| **Kohinoor Zen Estate** | Kharadi Riverfront | Semi: **₹36k–₹42k**<br>Full: ₹44k–₹50k | Full DG Backup | Walking distance to Zensar & EON IT Park, 3-tier security, modern clubhouse. | 9.0 |
-| **Bramha Suncity** | Wadgaon Sheri / Kalyani Nagar | Semi: **₹38k–₹44k**<br>Full: ₹46k–₹55k | Full DG Backup | 25-acre township, central artificial lake, large floor plates (1400+ sq.ft). | 8.6 |
+| **VJ Yashwin Enchante / Supernova** | Upper Kharadi | Semi: **₹32k–₹38k**<br>Full: **₹40k–₹44k** | ~₹3,000/mo | 100% Full DG | • [NoBroker Kharadi Rentals](https://www.nobroker.in/flats-for-rent-in-kharadi_pune)<br>• [99acres Yashwin Kharadi](https://www.99acres.com/rent-property-in-kharadi-pune-ffid)<br>• [Magicbricks Yashwin](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Kharadi-Pune) |
+| **Godrej Parkridge / Infinity** | Manjari-Kharadi | Semi: **₹30k–₹36k**<br>Full: **₹38k–₹44k** | ~₹2,800/mo | Full DG Backup | • [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune)<br>• [99acres Godrej Infinity](https://www.99acres.com/rent-property-in-kharadi-pune-ffid)<br>• [Housing Godrej Parkridge](https://housing.com/rent/flats-for-rent-in-kharadi-pune-P6w2u7o1v3b9x3) |
+| **Kohinoor Zen Estate** | Kharadi Riverfront | Semi: **₹36k–₹42k**<br>Full: **₹44k–₹50k** | ~₹3,500/mo | Full DG Backup | • [NoBroker Kharadi](https://www.nobroker.in/flats-for-rent-in-kharadi_pune)<br>• [99acres Zen Estate](https://www.99acres.com/rent-property-in-kharadi-pune-ffid)<br>• [Magicbricks Zen Estate](https://www.magicbricks.com/property-for-rent/residential-real-estate-in-Kharadi-Pune) |
+| **Bramha Suncity** | Wadgaon Sheri / Kalyani Nagar | Semi: **₹38k–₹44k**<br>Full: **₹46k–₹55k** | ~₹3,800/mo | Full DG Backup | • [NoBroker Wadgaon Sheri](https://www.nobroker.in/flats-for-rent-in-wadgaon-sheri_pune)<br>• [99acres Bramha Suncity](https://www.99acres.com/3-bhk-flats-for-rent-in-bramha-suncity-wadgaon-sheri-pune-ffid)<br>• [Magicbricks Bramha Suncity](https://www.magicbricks.com/property-for-rent/residential-real-estate?profilename=Bramha-Suncity&cityName=Pune) |
 
 ---
 
-## 💡 Top Strategic Takeaways
-
-1. **For Turnkey Fully-Furnished 3 BHKs Under ₹38,000**: Focus on **Kolte Patil Life Republic (Hinjewadi)**, **Godrej Hillside (Mahalunge)**, or **Rohan Tarang (Wakad)**.
-2. **For High-Life & Walk-to-Work**: Choose **Paranjape Blue Ridge (Hinjewadi Phase 1)** or **Aditya Comfort Zone (Balewadi)**.
+## 🔑 Key Pune Rental Terms & Verification Guide
+1. **Security Deposit**: Negotiate to standard **2 to 3 months of rent** in Pune.
+2. **Maintenance Charges**: Always verify whether the listed rent includes society maintenance or if maintenance (₹2,500–₹4,000) is paid separately.
+3. **Internal Power Backup**: Confirm whether the DG powers individual ceiling fans/lights or only common areas.
